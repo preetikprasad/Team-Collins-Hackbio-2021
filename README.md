@@ -11,4 +11,3 @@
 ###### The analytical reports, along with the video presentation can be found in the **[link]**(https://drive.google.com/drive/folders/17c4NujWtEIVH6f0TcPQXa6sY121Vtq6J) 
 ### Contributors
 ![This is an image of the Contributors.](https://github.com/Jeeel-03/Team-Collins-Hackbio-2021/blob/main/Contributions.png)
-## Thank you!

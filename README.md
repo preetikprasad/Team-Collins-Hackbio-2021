@@ -8,6 +8,6 @@
 ### Conclusion
 ###### The completion of this analysis is attributed to the dedicated contribution of the majority of our team members. We demonstrated the known variability on the P. falciparum genome using various bioinformatic analyses on pre-existing data and did not find any known variants. We intend to gain more insights into the mutability of the protozoan by including more samples in future.
 ### Supplementary Material
-###### The analytical reports, along with the video presentation can be found in the **[link](https://drive.google.com/drive/folders/13u9ccqQPkFebHx3KLLZBI0ypEUMAHoxP?usp=sharing)** 
+###### The analytical reports, along with the video presentation can be found **[here](https://drive.google.com/drive/folders/13u9ccqQPkFebHx3KLLZBI0ypEUMAHoxP?usp=sharing)** 
 ### Contributors
 ![This is an image of the Contributors.](https://github.com/Jeeel-03/Team-Collins-Hackbio-2021/blob/main/Contributions.png)
